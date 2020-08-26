@@ -1,0 +1,27 @@
+{
+  "name": "@wesleywhite/website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./build/index.js",
+  "scripts": {
+    "dev": "essence dev"
+  },
+  "author": "wesley white",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@essence/page-server": "^0.3.2",
+    "@essence/tags": "^0.4.4",
+    "@essence/ui": "^0.4.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "@essence/cli": "^0.3.6",
+    "@types/react": "^16.9.34",
+    "@typescript-eslint/eslint-plugin": "^2.28.0",
+    "@typescript-eslint/parser": "^2.28.0",
+    "eslint": "^6.8.0",
+    "eslint-plugin-react": "^7.19.0",
+    "npm-package-json-lint": "^5.0.0"
+  }
+}
