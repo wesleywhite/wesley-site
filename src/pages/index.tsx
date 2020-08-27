@@ -48,7 +48,7 @@ const Body: React.FC = () => withTailwind (
                 I received my B.S. in Software Engineering from The University of Texas.
             </p>
             <p>
-                I spend as much time as I can rock climbing, training for rock climbing, or planning my next climbing trip.
+                I spend most of my free time rock climbing, training for rock climbing, or planning my next climbing trip.
             </p>
         </Div>
     </Row>
@@ -99,7 +99,7 @@ const Tree: React.FC = () => withTailwind (
                 top:"-533px",
                 left:"154px"
             }}
-            download='resume'
+            download='WesleyWhite-Resume'
         />
         <Btn 
             name="Contact" 
