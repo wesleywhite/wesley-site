@@ -42,13 +42,13 @@ const Body: React.FC = () => withTailwind (
                 Hey! My name is Wesley White.
             </p>
             <p>
-                I am a software engineer currently working at Business Laboratory.
+                I am a software engineer currently working at Olea Edge Analytics.
             </p>
             <p>
                 I received my B.S. in Software Engineering from The University of Texas.
             </p>
             <p>
-                I spend most of my free time rock climbing, training for rock climbing, or planning my next climbing trip.
+                In my free time I love to rock climb both indoors and out!  
             </p>
         </Div>
     </Row>
